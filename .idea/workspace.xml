@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68a96e44-1887-43ba-82b8-f5fd69a590f2" name="Changes" comment="cajero automatico">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cajero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cajero.java" afterDir="false" />
-    </list>
+    <list default="true" id="68a96e44-1887-43ba-82b8-f5fd69a590f2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +73,19 @@
       <option name="project" value="LOCAL" />
       <updated>1696360355854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="agrego ciclo white">
+      <created>1696368586534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696368586534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cajero automatico" />
-    <option name="LAST_COMMIT_MESSAGE" value="cajero automatico" />
+    <MESSAGE value="agrego ciclo white" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrego ciclo white" />
   </component>
 </project>
